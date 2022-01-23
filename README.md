@@ -3,7 +3,15 @@
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
-
+1) Your ERC-721 Token Name
+   star
+2) Your ERC-721 Token Symbol
+   str
+3) Version of the Truffle and OpenZeppelin used -
+   Truffle v5.4.30 (core: 5.4.30)
+   OpenZeppelin: 2.3.0
+4) Your Token Address on the Rinkeby Network
+   0x0F384c25f5Ce6F966584F661D645c76AAb79C535
 
 
 ### Dependencies
@@ -91,9 +99,9 @@ npm run dev
 ### Important
 When you will add a new Rinkeyby Test Network in your Metamask client, you will have to provide:
 
-| Network Name | New RPC URL | Chain ID |
-|---|---|---|
-|Private Network 1|`http://127.0.0.1:9545/`|1337 |
+| Network Name | New RPC URL              | Chain ID |
+|---|--------------------------|---|
+|Private Network 1| `http://127.0.0.1:7545/` |1337 |
 
 The chain ID above can be fetched by:
 ```bash
